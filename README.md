@@ -34,4 +34,5 @@ To donate, please follow [this](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xcl
 ![20210925_152804](https://user-images.githubusercontent.com/22457544/134772081-773aa253-9cab-41a8-9c5d-9488afa02867.gif)
 ![20210925_153344](https://user-images.githubusercontent.com/22457544/134772083-75665285-d7e0-42f8-8aeb-245ac0fbf153.gif)
 ![20210925_153557](https://user-images.githubusercontent.com/22457544/134772084-eb18c92a-8c91-4909-a37d-469d0f7dbce7.gif)
-![20210925_142145](https://user-images.githubusercontent.com/22457544/134772086-c29a4863-878f-47d0-87e4-797dae5a205d.gif)
+![20210925_142145](https://user-images.githubuserco![20210925_143419](https://user-images.githubusercontent.com/22457544/134772207-056ad307-a1bb-4acb-b115-13ca0e3ea10e.gif)
+ntent.com/22457544/134772086-c29a4863-878f-47d0-87e4-797dae5a205d.gif)
