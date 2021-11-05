@@ -4,7 +4,7 @@
 
 MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
 
-# Smart Mirror Demo
+# Working
 
 <img align="left" src="https://user-images.githubusercontent.com/22457544/134772081-773aa253-9cab-41a8-9c5d-9488afa02867.gif">
 <img align="right"  src="https://user-images.githubusercontent.com/22457544/134772086-c29a4863-878f-47d0-87e4-797dae5a205d.gif">
@@ -13,8 +13,8 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](https://www
 <img align="right" src="https://user-images.githubusercontent.com/22457544/134772207-056ad307-a1bb-4acb-b115-13ca0e3ea10e.gif">
 
 
+| Documentation |
 | ------ | ------- |
-
 ## Documentation
 
 For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
