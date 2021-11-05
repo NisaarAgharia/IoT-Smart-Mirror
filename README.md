@@ -12,7 +12,7 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](https://www
 <img align="left"    src="https://user-images.githubusercontent.com/22457544/134772084-eb18c92a-8c91-4909-a37d-469d0f7dbce7.gif">
 <img align="right" src="https://user-images.githubusercontent.com/22457544/134772207-056ad307-a1bb-4acb-b115-13ca0e3ea10e.gif">
 
-| Action | Meaning |
+
 | ------ | ------- |
 
 ## Documentation
