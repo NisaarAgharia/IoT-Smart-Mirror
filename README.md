@@ -17,6 +17,6 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](https://www
 </p>
 
 
-| Docs   | Reference |
+| Docs   |   |
 | ------ | ------- |
 For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
